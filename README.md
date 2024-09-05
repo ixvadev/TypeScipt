@@ -1,6 +1,3 @@
-![Screenshot_2024-09-05_230522-removebg-preview](https://github.com/user-attachments/assets/5470c207-f92b-43d9-91e2-0ab2870b6ad1)
-
-
 # TypeScript nima?
 
 **TypeScript** — bu JavaScriptning rivojlangan versiyasi bo'lib, unga "tiplar" (types) tizimini qo'shadi. Bu dasturlashda xatolarni oldindan ko'rish va kodni yanada ishonchli qilish imkonini beradi.
