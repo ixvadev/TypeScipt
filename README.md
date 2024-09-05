@@ -1,4 +1,4 @@
-![Uploading Screenshot_2024-09-05_230522-removebg-preview.png…]()
+![Screenshot_2024-09-05_230522-removebg-preview](https://github.com/user-attachments/assets/5470c207-f92b-43d9-91e2-0ab2870b6ad1)
 
 
 # TypeScript nima?
